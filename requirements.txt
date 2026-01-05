@@ -1,0 +1,8 @@
+streamlit
+nbformat
+torch
+transformers
+faiss-cpu
+langchain
+python-dotenv
+pickle
